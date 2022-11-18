@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 8584853375a1a914b9dd322540b53a77
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Apoio1
+    100002: Apoio2
+    100004: Apoio3
+    100006: Apoio4
+    100008: Apoio5
+    100010: Caixa
+    100012: Caixa.001
+    100014: Caixa.002
+    100016: Caixa.003
+    100018: Caixa.004
+    100020: Caixa.005
+    100022: Caixa.006
+    100024: Caixa.007
+    100026: Caixa.008
+    100028: Caixa.009
+    100030: Caixa.010
+    100032: Caixa.011
+    100034: Caixa.012
+    100036: Caixa.013
+    100038: Caixa.014
+    100040: Laterais
+    100042: Pontas
+    100044: //RootNode
+    100046: "P\xE9s"
+    400000: Apoio1
+    400002: Apoio2
+    400004: Apoio3
+    400006: Apoio4
+    400008: Apoio5
+    400010: Caixa
+    400012: Caixa.001
+    400014: Caixa.002
+    400016: Caixa.003
+    400018: Caixa.004
+    400020: Caixa.005
+    400022: Caixa.006
+    400024: Caixa.007
+    400026: Caixa.008
+    400028: Caixa.009
+    400030: Caixa.010
+    400032: Caixa.011
+    400034: Caixa.012
+    400036: Caixa.013
+    400038: Caixa.014
+    400040: Laterais
+    400042: Pontas
+    400044: //RootNode
+    400046: "P\xE9s"
+    2100000: Metal
+    2100002: Madeira
+    2100004: Caixa
+    2300000: Apoio1
+    2300002: Apoio2
+    2300004: Apoio3
+    2300006: Apoio4
+    2300008: Apoio5
+    2300010: Caixa
+    2300012: Caixa.001
+    2300014: Caixa.002
+    2300016: Caixa.003
+    2300018: Caixa.004
+    2300020: Caixa.005
+    2300022: Caixa.006
+    2300024: Caixa.007
+    2300026: Caixa.008
+    2300028: Caixa.009
+    2300030: Caixa.010
+    2300032: Caixa.011
+    2300034: Caixa.012
+    2300036: Caixa.013
+    2300038: Caixa.014
+    2300040: Laterais
+    2300042: Pontas
+    2300044: "P\xE9s"
+    3300000: Apoio1
+    3300002: Apoio2
+    3300004: Apoio3
+    3300006: Apoio4
+    3300008: Apoio5
+    3300010: Caixa
+    3300012: Caixa.001
+    3300014: Caixa.002
+    3300016: Caixa.003
+    3300018: Caixa.004
+    3300020: Caixa.005
+    3300022: Caixa.006
+    3300024: Caixa.007
+    3300026: Caixa.008
+    3300028: Caixa.009
+    3300030: Caixa.010
+    3300032: Caixa.011
+    3300034: Caixa.012
+    3300036: Caixa.013
+    3300038: Caixa.014
+    3300040: Laterais
+    3300042: Pontas
+    3300044: "P\xE9s"
+    4300000: Laterais
+    4300002: Pontas
+    4300004: "P\xE9s"
+    4300006: Apoio1
+    4300008: Caixa
+    4300010: Caixa.001
+    4300012: Caixa.002
+    4300014: Caixa.005
+    4300016: Caixa.008
+    4300018: Caixa.012
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
